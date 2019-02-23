@@ -1,0 +1,102 @@
+{
+  "height": "4160",
+  "results": [
+    {
+      "bottom": 3263,
+      "class": "Footer",
+      "left": 93,
+      "prob": 0.9588184356689453,
+      "right": 2887,
+      "top": 2693
+    },
+    {
+      "bottom": 2268,
+      "class": "Paragraph",
+      "left": 1116,
+      "prob": 0.8232811689376831,
+      "right": 1713,
+      "top": 2022
+    },
+    {
+      "bottom": 1835,
+      "class": "Image",
+      "left": 1078,
+      "prob": 0.8810343146324158,
+      "right": 1696,
+      "top": 1253
+    },
+    {
+      "bottom": 1868,
+      "class": "Image",
+      "left": 295,
+      "prob": 0.9277790188789368,
+      "right": 909,
+      "top": 1266
+    },
+    {
+      "bottom": 1765,
+      "class": "Image",
+      "left": 1877,
+      "prob": 0.923852264881134,
+      "right": 2482,
+      "top": 1192
+    },
+    {
+      "bottom": 1952,
+      "class": "Label",
+      "left": 1179,
+      "prob": 0.8577697277069092,
+      "right": 1661,
+      "top": 1823
+    },
+    {
+      "bottom": 632,
+      "class": "Image",
+      "left": 1295,
+      "prob": 0.8967734575271606,
+      "right": 1849,
+      "top": 222
+    },
+    {
+      "bottom": 1131,
+      "class": "Link",
+      "left": 1134,
+      "prob": 0.8182426691055298,
+      "right": 1505,
+      "top": 928
+    },
+    {
+      "bottom": 841,
+      "class": "Label",
+      "left": 1264,
+      "prob": 0.836499035358429,
+      "right": 1922,
+      "top": 652
+    },
+    {
+      "bottom": 1131,
+      "class": "Link",
+      "left": 1646,
+      "prob": 0.7999252676963806,
+      "right": 1948,
+      "top": 937
+    },
+    {
+      "bottom": 1888,
+      "class": "Label",
+      "left": 1959,
+      "prob": 0.8061159253120422,
+      "right": 2426,
+      "top": 1766
+    },
+    {
+      "bottom": 2237,
+      "class": "Paragraph",
+      "left": 1896,
+      "prob": 0.885124921798706,
+      "right": 2575,
+      "top": 1966
+    }
+  ],
+  "width": "3120"
+}
